@@ -91,7 +91,7 @@ class App extends React.Component<{}, { checkFav:boolean,searchItem:searchItem,i
   render() {
     let nextButton = this.state.info?.next ?
         <button onClick={()=>this.changeState(this.state.info.next || "")} style={{alignSelf: "flex-end",marginLeft: "auto"}}>Next page</button> : ""
-    let prevButton = this.state.info?.prev ? <button onClick={()=>this.changeState(this.state.info.prev || "")}>Previous page</button> : ""
+    let prevButton = this.state.info?.prev ? <button onClick={()=>this.changeState(this.state.info.prev || "")}>Previous page</button> : <button style={{visibility:"hidden"}}>Previous page</button>
     let hideFavouritesCheck = this.state.favourites ? "" : "hide";
     let hideDetails = this.state.checkFav ? "hide" : "";
     return (
