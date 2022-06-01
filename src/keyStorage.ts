@@ -1,0 +1,1 @@
+export const keyStorage = "rick-morty-favourites";
