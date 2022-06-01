@@ -12,9 +12,9 @@ The information shown is: the picture of the character, the name of the characte
 
 Below each image there is a button that opens a popup with more information about the character.
 
-Over each image there is a star: by clicking on it, the character will be saved as a favorite in your browser cache.
+Over each image there is a star: by clicking on it, the character will be saved as a favourite in your browser cache.
 
 It's possible to:
 - change page
 - search by name, status, species,type and gender. If there are not matches, an error popup will be shown.
-- Show and save favorites characters. You can view your favourites ticking the checkbox "Show favourites" at the top of the page ( it will be visible only when you have at least one favorite ).
+- Show and save favourites characters. You can view your favourites ticking the checkbox "Show favourites" at the top of the page ( it will be visible only when you have at least one favourite ).
