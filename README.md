@@ -8,7 +8,7 @@ It is possible to view the list of all the characters.
 
 These are 20 per page. 
 
-The information shown is: the pictures of the character, the name of the character.
+The information shown is: the picture of the character, the name of the character.
 
 Below each image there is a button that opens a popup with more information about the character.
 
