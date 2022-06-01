@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dinuovos/static/css/main.8e40236f.css",
-    "main.js": "/dinuovos/static/js/main.83cacfa6.js",
-    "index.html": "/dinuovos/index.html",
-    "main.8e40236f.css.map": "/dinuovos/static/css/main.8e40236f.css.map",
-    "main.83cacfa6.js.map": "/dinuovos/static/js/main.83cacfa6.js.map"
+    "main.css": "/rick-and-morty-characters/static/css/main.8e40236f.css",
+    "main.js": "/rick-and-morty-characters/static/js/main.83cacfa6.js",
+    "index.html": "/rick-and-morty-characters/index.html",
+    "main.8e40236f.css.map": "/rick-and-morty-characters/static/css/main.8e40236f.css.map",
+    "main.83cacfa6.js.map": "/rick-and-morty-characters/static/js/main.83cacfa6.js.map"
   },
   "entrypoints": [
     "static/css/main.8e40236f.css",
