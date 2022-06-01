@@ -1,5 +1,5 @@
 # Rick and Morty characters
-A list of rick and morty characters. You can find the final result [here](/dinuovos/rick-and-morty-characters/build/).
+A list of rick and morty characters. You can find the final result [here](https://dinuovos.github.io/rick-and-morty-characters/).
 
 This is an example project in React 18.1 and typescript 4.7.
 The data is taken from https://rickandmortyapi.com/.
