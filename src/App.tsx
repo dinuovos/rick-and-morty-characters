@@ -51,7 +51,9 @@ class App extends React.Component<{}, { checkFav:boolean,searchItem:searchItem,i
   }
   changeState = changeState;
   changePage(e:ChangeEvent<HTMLInputElement>){
-    this.changeState(characterUrl+"?page="+e.target.value);
+    let url = "?" + encodeQueryData(this.state.searchItem) + "&page=" + e.target.value;
+    this.changeState(characterUrl+url);
+    //this.changeState(characterUrl+"?page="+e.target.value);
   }
   changeSearchParameters = changeSearchParameters;
   toggleFavourite(id:number){
